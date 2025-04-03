@@ -1,6 +1,7 @@
+import math
 import pytest
 import source.shapes as shapes
-import math
+
 
 class TestCircle:
     def setup_method(self, method):
