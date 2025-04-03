@@ -9,3 +9,11 @@ uv run pytest tests/[desired test]
 # e.g.:
 uv run pytest tests/test_my_functions.py
 ```
+
+## Class-based tests
+
+## Fixtures
+
+## Mark and Parametrize
+
+Add metadata to the tests.
