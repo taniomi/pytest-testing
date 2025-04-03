@@ -16,4 +16,6 @@ uv run pytest tests/test_my_functions.py
 
 ## Mark and Parametrize
 
-Add metadata to the tests.
+Mark: Add metadata to the tests. Basically "tag" your tests.
+
+Parametrize: Define parameters for the test so you can test various cases without writing a test for each one.
